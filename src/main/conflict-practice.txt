@@ -1,0 +1,3 @@
+application=SpringBoot
+message=Hello Team
+environment=development
