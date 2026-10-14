@@ -1,0 +1,7 @@
+application=SpringBoot
+message=Hello from Main Branch
+environment=development
+
+environment=testin
+
+feature=student-api
