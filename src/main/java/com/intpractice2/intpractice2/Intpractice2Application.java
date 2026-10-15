@@ -10,6 +10,7 @@ public class Intpractice2Application {
 
 		SpringApplication.run(Intpractice2Application.class, args);
 		System.out.println("Hello World");
+		System.out.println("Git workflow practice: bug fix and pull request.");
 	}
 
 // Feature branch practice
